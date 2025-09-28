@@ -38,9 +38,7 @@ I'm passionate about **problem solving and algorithms**, with a strong interest 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> 
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
-  </a>
+<img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
   </a>
