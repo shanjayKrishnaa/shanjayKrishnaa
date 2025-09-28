@@ -1,18 +1,19 @@
-# 👋 Hi, I'm Shanjay Krishnaa  
+# Hi, I'm Shanjay Krishnaa 👋
 
-🚀 Aspiring Software Developer | 💻 Web Developer | 📊 Problem Solver  
+I'm passionate about **problem solving and algorithms**, with a strong interest in **DSA** and **Java**. I love tackling challenges on **LeetCode** and constantly improving my coding skills.  
 
-🌱 Currently learning **DSA** and sharpening my **React & Python** skills.  
-🎯 Goal: To build impactful projects and contribute to open-source.  
-⚡ Fun fact: Still flinching at "Medium" level DSA problems 😅  
+💻 **Aspiring Full Stack Developer** | Currently learning **Spring Boot**  
+🎯 **Goal:** Build impactful projects and contribute to **open-source**  
+
+[Check out my LeetCode profile](https://leetcode.com/u/shanjayKrishnaa/)
 
 ---
 
 ## 🛠️ Tech Stack  
 - **Languages**: C, C++, Java, Python, JavaScript  
-- **Web**: React.js, Node.js (basic), HTML, CSS  
+- **Web**: React.js, Node.js, HTML, CSS  
 - **Tools**: Git, GitHub, VS Code, UI Path (RPA)  
-- **Databases**: MySQL  
+- **Databases**: MySQL,Mongo DB
 
 ---
 
@@ -75,4 +76,4 @@
 - [LinkedIn](https://www.linkedin.com/in/shanjaykrishnaa/)  
 - [Email](mailto:shanjaykrish22@gmail.com)  
 
-✨ _Thanks for visiting my profile!_  
+✨ _Thanks for visiting my profile!_
