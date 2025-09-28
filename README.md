@@ -7,6 +7,8 @@ I'm passionate about **problem solving and algorithms**, with a strong interest 
 
 [Check out my LeetCode profile](https://leetcode.com/u/shanjayKrishnaa/)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/shanjayKrishnaa?theme=dark&font=Noto%20Sans%20Tamil&ext=heatmap)
+
 ---
 
 ## 🛠️ Tech Stack  
