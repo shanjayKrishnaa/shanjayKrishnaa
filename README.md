@@ -71,4 +71,4 @@ I'm passionate about **problem solving and algorithms**, with a strong interest 
 - [LinkedIn](https://www.linkedin.com/in/shanjaykrishnaa/)  
 - [Email](mailto:shanjaykrish22@gmail.com)  
 
-✨ _Thanks for visiting my profile!_✨
+✨ _Thanks for visiting my profile!✨
