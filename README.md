@@ -19,7 +19,7 @@ I'm passionate about **problem solving and algorithms**, with a strong interest 
 
 ---
 
-## 🔧 Languages and Tools  
+## 🔧 Languages and Tools  \\
 
 <p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
