@@ -1,4 +1,4 @@
-# Hi, I'm Shanjay Krishnaa 👋
+# Hi, I am Shanjay Krishnaa 👋
 
 I'm passionate about **problem solving and algorithms**, with a strong interest in **DSA** and **Java**. I love tackling challenges on **LeetCode** and constantly improving my coding skills.  
 
